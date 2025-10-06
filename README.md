@@ -52,7 +52,7 @@ Co‑developed an AI‑assisted maintenance platform with conversational access 
 * [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/JW4185DGSYPO)
 * [Supervised ML: Regression & Classification](https://www.coursera.org/account/accomplishments/verify/YQO9TBAD5WPC)
 * [Unsupervised Learning, Recommenders & RL](https://www.coursera.org/account/accomplishments/verify/MGC6NJR0SNLN)
-
+* 
 ## Contact & Links
 
 * [GitHub](https://github.com/TomasCoelho23)
