@@ -2,14 +2,13 @@
 
 **MSc Aerospace Engineering (Embedded Systems) @ ISAE‑SUPAERO · BSc Aerospace Engineering @ IST**
 
-HIIIIIIIIIIIIIIIIIIIIIIIIII
 Toulouse, France · Computer Vision · AI for Maintenance
 
 ---
 
 ## About me
 
-I’m an aerospace engineering student passionate about autonomy, perception, and reliable systems. I build things that **see**, **decide**, and **fly**—from AI pipelines for agricultural perception to lightweight structures for competition UAVs.
+Experienced AI developer with exceptional skills in creating autonomous agents and RAG architectures for workflow optimizations, including for Airbus.  Vast knowledge in various topics related to aerospace such as aircraft structures, avionics and software. Proved ability in leading teams in the context of aircraft design.  
 
 * 🎓 **ISAE‑SUPAERO (MSc, Embedded Systems)** — CGPA: **3.86/4.0** (Expected Dec 2026)
 * 🎓 **Instituto Superior Técnico (BSc, Aerospace)** — Final Grade: **15/20** (Jun 2024)
@@ -26,6 +25,7 @@ I’m an aerospace engineering student passionate about autonomy, perception, an
 * Designed a **ControlNet‑based** pipeline to generate image–mask pairs for data augmentation under limited labels.
 * Integrated synthetic samples into the training workflow, improving robustness for vegetation monitoring and space‑agri perception.
 
+[GitHub](https://github.com/TomasCoelho23/hierarchical-segmentation-with-synthetic-data)  |  [Paper](https://drive.google.com/file/d/1f7X9e0ARktgJsrhsthU3vcoMlZuTKZIG/view?usp=sharing)
 ---
 
 ## Selected Projects
@@ -36,6 +36,7 @@ Led the **Tail & Fuselage Structures** department for a 12‑person team. Balanc
 **AeroVision — Airbus "Fly Your Ideas" 2025**
 Co‑developed an AI‑assisted maintenance platform with conversational access to logistics databases and a **RAG assistant** over aircraft manuals. Delivered a working prototype that supported part sourcing and reduced turnaround time.
 
+[Paper](https://drive.google.com/file/d/1BUn6Mw2Rps3KrnPv9s4DA0DeVOIT4r9X/view?usp=sharing)
 ---
 
 ## Tech Stack
@@ -52,7 +53,8 @@ Co‑developed an AI‑assisted maintenance platform with conversational access 
 * [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/JW4185DGSYPO)
 * [Supervised ML: Regression & Classification](https://www.coursera.org/account/accomplishments/verify/YQO9TBAD5WPC)
 * [Unsupervised Learning, Recommenders & RL](https://www.coursera.org/account/accomplishments/verify/MGC6NJR0SNLN)
-* 
+
+---
 ## Contact & Links
 
 * [GitHub](https://github.com/TomasCoelho23)
