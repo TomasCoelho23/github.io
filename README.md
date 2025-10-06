@@ -1,6 +1,7 @@
 # Hi, I'm Tomás Coelho 
 
-**MSc Aerospace Engineering (Embedded Systems) @ ISAE‑SUPAERO · BSc Aerospace Engineering @ IST**
+**MSc Aerospace Engineering (Embedded Systems) @ ISAE‑SUPAERO  
+  BSc Aerospace Engineering @ IST**
 
 Toulouse, France · Computer Vision · AI for Maintenance
 
