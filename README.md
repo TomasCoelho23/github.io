@@ -3,7 +3,7 @@
 **MSc Aerospace Engineering (Embedded Systems) @ ISAE‑SUPAERO  
   BSc Aerospace Engineering @ IST**
 
-Toulouse, France · Computer Vision · AI for Maintenance
+Computer Vision · AI for Maintenance · Embedded Systems
 ---
 
 ## About me
