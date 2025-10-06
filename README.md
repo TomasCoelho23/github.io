@@ -4,7 +4,6 @@
   BSc Aerospace Engineering @ IST**
 
 Toulouse, France · Computer Vision · AI for Maintenance
-hoooooooooooooooooooooooooooooooooooooooooooooooooo
 ---
 
 ## About me
@@ -20,7 +19,7 @@ Experienced AI developer with exceptional skills in creating autonomous agents a
 
 ## Research
 
-**Synthetic Data Generation for Hierarchical Panoptic Segmentation (ISAE‑SUPAERO)** *(Feb 2025 – Present)* [GitHub](https://github.com/TomasCoelho23/hierarchical-segmentation-with-synthetic-data)  |  [Paper](https://drive.google.com/file/d/1f7X9e0ARktgJsrhsthU3vcoMlZuTKZIG/view?usp=sharing)
+**Synthetic Data Generation for Hierarchical Panoptic Segmentation (ISAE‑SUPAERO)** *(Feb 2025 – Present)* [GitHub](https://github.com/TomasCoelho23/hierarchical-segmentation-with-synthetic-data)[Paper](https://drive.google.com/file/d/1f7X9e0ARktgJsrhsthU3vcoMlZuTKZIG/view?usp=sharing)
 
 * Benchmarked **Mask2Former** on **PhenoBench** for hierarchical panoptic segmentation, exploring multiple hyperparameter regimes.
 * Designed a **ControlNet‑based** pipeline to generate image–mask pairs for data augmentation under limited labels.
@@ -35,7 +34,8 @@ Experienced AI developer with exceptional skills in creating autonomous agents a
 Led the **Tail & Fuselage Structures** department for a 12‑person team. Balanced weight, efficiency, and compliance with competition rules while coordinating design, simulation, and manufacturing.
 
 **AeroVision — Airbus "Fly Your Ideas" 2025**
-*Co‑developed an AI‑assisted maintenance platform with conversational access to logistics databases and a **RAG assistant** over aircraft manuals. Delivered a working prototype that supported part sourcing and reduced turnaround time.[Paper](https://drive.google.com/file/d/1BUn6Mw2Rps3KrnPv9s4DA0DeVOIT4r9X/view?usp=sharing)
+Co‑developed an AI‑assisted maintenance platform with conversational access to logistics databases and a **RAG assistant** over aircraft manuals. Delivered a working prototype that supported part sourcing and reduced turnaround time.[Paper](https://drive.google.com/file/d/1BUn6Mw2Rps3KrnPv9s4DA0DeVOIT4r9X/view?usp=sharing)
+
 ---
 
 ## Tech Stack
