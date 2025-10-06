@@ -35,7 +35,7 @@ Experienced AI developer with exceptional skills in creating autonomous agents a
 Led the **Tail & Fuselage Structures** department for a 12‑person team. Balanced weight, efficiency, and compliance with competition rules while coordinating design, simulation, and manufacturing.
 
 **AeroVision — Airbus "Fly Your Ideas" 2025**
-Co‑developed an AI‑assisted maintenance platform with conversational access to logistics databases and a **RAG assistant** over aircraft manuals. Delivered a working prototype that supported part sourcing and reduced turnaround time. [Paper](https://drive.google.com/file/d/1BUn6Mw2Rps3KrnPv9s4DA0DeVOIT4r9X/view?usp=sharing)
+Co‑developed an AI‑assisted maintenance platform with conversational access to logistics databases and a **RAG assistant** over aircraft manuals. Delivered a working prototype that supported part sourcing and reduced turnaround time.[Paper](https://drive.google.com/file/d/1BUn6Mw2Rps3KrnPv9s4DA0DeVOIT4r9X/view?usp=sharing)
 ---
 
 ## Tech Stack
